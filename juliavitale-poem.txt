@@ -1,5 +1,11 @@
 Name: Julia Vitale
 
-Date: 
+Date: Jan 30, 2025
 
 Poem:
+
+I'm writing a poem in git
+but frankly this software's not it
+it's somewhat frustrating
+the colors are grating
+and i'm not sure I like it one bit
