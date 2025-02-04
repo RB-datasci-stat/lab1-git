@@ -1,9 +1,10 @@
-Name: Aiden Santoro
+Name: Sriram Soundar
 Date: 1/30/25
 
 Poem: 
-While syntax errors may annoy me
-When I get into a coding flow I begin to feel free
-hopefully I get to work in the data science industry
+Setting up git was a nightmare
+Now I that I have done it I feel as if things are fair
+Hopefully never again
+Or I might just go to bed.
 
 	
