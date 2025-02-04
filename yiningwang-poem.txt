@@ -1,4 +1,14 @@
 Name: Yining Wang
 Date: Jan 30, 2025
 
-Poem: 
+Poem: Data Dance
+
+Numbers whisper, patterns shine,
+In tangled threads of code divine.
+Through graphs and models, truth takes flight,
+Turning chaos into sight.
+
+With data’s pulse, we find the way,
+From past to future, night to day.
+A dance of logic, math, and art—
+Where science speaks, and minds take part.
